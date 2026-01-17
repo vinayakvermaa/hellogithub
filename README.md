@@ -1,2 +1,2 @@
 # hellogithub
-This is my first reository
+This is my first git repository
