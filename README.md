@@ -1,4 +1,5 @@
 # hellogithub
 This is my first git repository
 <br>
-Author-Vinayak Verma
+Author-Vinayak Verma (codeit)
+
